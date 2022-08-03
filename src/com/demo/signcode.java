@@ -22,6 +22,7 @@ class signcode {
     //省略关键核心代码
     //省略关键核心代码
     //省略关键核心代码
+     //省略关键核心代码
 
     private static String getSignCode(String account, String pwd) {
         String sortString="";
