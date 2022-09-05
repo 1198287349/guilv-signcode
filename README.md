@@ -23,8 +23,4 @@
 ![QQ截图20220812202936](https://user-images.githubusercontent.com/38068634/184354269-b9cff0bc-f5f1-466a-96d7-561a445e1411.png)
 
 
-# 20220812-20点27分
-![20220812](https://user-images.githubusercontent.com/38068634/184353884-13bb7be0-4209-4244-9f81-771f78611fb4.png)
 
-![QQ截图20220812202752![QQ截图20220812202802](https://user-images.githubusercontent.com/38068634/184354002-de586dce-8c95-486e-8aa2-f779d033b270.png)
-](https://user-images.githubusercontent.com/38068634/184353985-17f4c137-a34e-4bee-9151-87d2b6590dd4.png)
